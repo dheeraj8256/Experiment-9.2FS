@@ -1,4 +1,4 @@
-# 🐳 React CI/CD Demo.
+# 🐳 React CI/CD Demo..
 
 This is a **React Dockerized Application** with a simple CI/CD workflow.
 
